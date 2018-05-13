@@ -4,8 +4,8 @@ VESC is a registered TM, owned by Benjamin Vedder
 
 More info here: https://vesc-project.com/node/339
 * 18 FET design
-* 75v maximum
-* 200A continuous for about a minute
-* 300A burst for a few seconds
+* 75v maximum 
+* 200A continuous for about 2 minutes
+* 300A burst for about 20s
 
 
